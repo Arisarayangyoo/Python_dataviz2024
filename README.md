@@ -6,5 +6,7 @@ Indian_movies_dashboard : https://lookerstudio.google.com/reporting/69607c0a-481
 
 Indian_Movies_dashBoard : https://lookerstudio.google.com/reporting/d3e2e2d2-22b4-47a8-a318-0044910b6a05
 
+Dashboard miniproject : https://lookerstudio.google.com/reporting/c97954fa-31d4-40e1-9393-5c2866696788
+
 
 
